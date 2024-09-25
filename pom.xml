@@ -15,6 +15,13 @@
     </properties>
     
 <dependencies>
+    
+    <dependency>
+        <groupId>com.edu.umg</groupId>
+        <artifactId>ExtraerProperties</artifactId>
+        <version>1.0-SNAPSHOT</version>
+        <type>jar</type>
+    </dependency>
     <!-- Dependencia para Java EE 7 -->
     <dependency>
         <groupId>javax</groupId>
